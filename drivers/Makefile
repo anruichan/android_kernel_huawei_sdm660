@@ -81,7 +81,6 @@ obj-$(CONFIG_SLIMBUS)		+= slimbus/
 obj-$(CONFIG_SOUNDWIRE)		+= soundwire/
 obj-y				+= hsi/
 obj-y				+= net/
-obj-$(CONFIG_QCA_CLD_WLAN)	+= wlan_driver/
 obj-$(CONFIG_ATM)		+= atm/
 obj-$(CONFIG_FUSION)		+= message/
 obj-y				+= firewire/

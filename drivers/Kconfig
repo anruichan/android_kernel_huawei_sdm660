@@ -193,8 +193,6 @@ source "drivers/mcb/Kconfig"
 
 source "drivers/perf/Kconfig"
 
-source "drivers/wlan_driver/Kconfig"
-
 source "drivers/ras/Kconfig"
 
 source "drivers/thunderbolt/Kconfig"
